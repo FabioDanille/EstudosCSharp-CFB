@@ -1,3 +1,9 @@
+Operadores e expressões do C#
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/operators/#code-try-2
+
+-----------
+
 Aula01
 
 Instalado nessa ordem:
