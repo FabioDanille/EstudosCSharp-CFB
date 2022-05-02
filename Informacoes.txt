@@ -1,0 +1,39 @@
+Aula01
+
+Instalado nessa ordem:
+.NET runtime
+.NET Core SDK
+.NET Framework devpack
+
+-----------
+Aula 02
+
+dotnet new console = preparar ambiente c#
+
+dotnet new console --framework net5.0 (é o da época do vídeo... baixado atual é 6.0)
+
+-----------
+
+Aula 11
+
+Quando não é possível a conversão implícita, utiliza-se a 'type cast'
+
+-----------
+
+.
+
+-----------
+
+.
+
+-----------
+
+.
+
+-----------
+
+.
+
+-----------
+
+
